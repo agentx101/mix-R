@@ -13,6 +13,7 @@ export function App() {
   return (
     <>
       <h1>OP Starter Project</h1>
+      <p> Hello Eth</p>
 
       {/** @see https://www.rainbowkit.com/docs/connect-button */}
       <ConnectButton />
